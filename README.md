@@ -2,10 +2,14 @@
 
 Code and data for EMNLP 2022 paper "CONSISTENT: Open-Ended Question Generation From News Articles"
 
-          The model trained on ELI5 with control code can be found herehttps://huggingface.co/TuhinColumbia/QAGenControlCode
+Inference Details
+
+          The model trained on ELI5 with control code can be found here https://huggingface.co/TuhinColumbia/QAGenControlCode
 
           To run inference you can put ControlCode +' ====== '+ Paragraph
 
+
+Data used for experiments
 
           The allparagraph.json file contains generated question from all baselines while amtwittenquestions.csv contain gold answers
 
